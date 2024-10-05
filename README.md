@@ -1,6 +1,6 @@
 # Face Recognition System
 
-This project is a **facial recognition-based attendance system** built using Python, OpenCV, and the dlib library. It detects faces, recognizes them from a dataset, and marks attendance based on the recognized faces.
+This project is a **facial recognition-based attendance system** built using Python, Django, OpenCV, and the dlib library. It detects faces, recognizes them from a dataset, and marks attendance based on the recognized faces.
 
 ## Features:
 - Real-time face detection using OpenCV.
